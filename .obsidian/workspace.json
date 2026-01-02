@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "302625054ac9b293",
+    "type": "split",
+    "children": [
+      {
+        "id": "35f1d19988357821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3771e47fdea7c61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_네트워크_정의_및_역사"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caffe77ce1608764",
+    "type": "split",
+    "children": [
+      {
+        "id": "670cb7d4564cce25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c23d2441cff3fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7ac2779d72d8e7b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c879b507e69e3f4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb74ac7aadfe1367",
+    "type": "split",
+    "children": [
+      {
+        "id": "375712bfe6f9fda3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c5d920a45d7d5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01_네트워크_정의_및_역사 의 백링크"
+            }
+          },
+          {
+            "id": "5a38289ede745f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01_네트워크_정의_및_역사 의 나가는 링크"
+            }
+          },
+          {
+            "id": "6dbce06066ff5bd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "99fd1de8a4895b91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "aaddd0472ba2996f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01_네트워크_정의_및_역사 의 개요"
+            }
+          },
+          {
+            "id": "610505b9c6ab8954",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3771e47fdea7c61b",
+  "lastOpenFiles": [
+    "01_Auth/인증 시스템 아키텍처 설계서.md",
+    "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+    "02_Network/00_목차/00_목차.md",
+    "01_Auth/Auth-Architecture-Access.md",
+    "02_Network/02_물리_계층/03_UTP_케이블과_Wi-Fi.md",
+    "무제.base",
+    "무제 1.canvas",
+    "무제.canvas"
+  ]
+}
