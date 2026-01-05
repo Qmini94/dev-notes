@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/09_실무_통신_사례/05_서버 접속과 웹 통신 구분.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_네트워크_정의_및_역사"
+              "title": "05_서버 접속과 웹 통신 구분"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/09_실무_통신_사례/05_서버 접속과 웹 통신 구분.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01_네트워크_정의_및_역사 의 백링크"
+              "title": "05_서버 접속과 웹 통신 구분 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/09_실무_통신_사례/05_서버 접속과 웹 통신 구분.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01_네트워크_정의_및_역사 의 나가는 링크"
+              "title": "05_서버 접속과 웹 통신 구분 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
+                "file": "02_Network/09_실무_통신_사례/05_서버 접속과 웹 통신 구분.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01_네트워크_정의_및_역사 의 개요"
+              "title": "05_서버 접속과 웹 통신 구분 의 개요"
             }
           },
           {
@@ -196,11 +196,35 @@
   },
   "active": "3771e47fdea7c61b",
   "lastOpenFiles": [
-    "01_Auth/인증 시스템 아키텍처 설계서.md",
-    "02_Network/01_네트워크_소개/01_네트워크_정의_및_역사.md",
-    "02_Network/00_목차/00_목차.md",
-    "01_Auth/Auth-Architecture-Access.md",
-    "02_Network/02_물리_계층/03_UTP_케이블과_Wi-Fi.md",
+    "02_Network/09_실무_통신_사례/04_JWT_쿠키_기반_인증_통신.md",
+    "02_Network/09_실무_통신_사례/03_SSR_CSR_통신_차이.md",
+    "02_Network/09_실무_통신_사례/02_Kubernetes_통신_구조.md",
+    "02_Network/09_실무_통신_사례/01_Docker_네트워크_구조.md",
+    "02_Network/08_라우팅_방식/02_BGP_RIP_OSPF_개요.md",
+    "02_Network/08_라우팅_방식/01_정적_라우팅과_동적_라우팅.md",
+    "02_Network/07_L2_네트워크_개요/04_STP_개요.md",
+    "02_Network/07_L2_네트워크_개요/03_VLAN.md",
+    "02_Network/07_L2_네트워크_개요/02_ARP.md",
+    "02_Network/07_L2_네트워크_개요/01_L2_네트워크_역할.md",
+    "02_Network/06_NAT와_네트워크_경계/04_NodePort와_NAT_구조.md",
+    "02_Network/06_NAT와_네트워크_경계/03_포트_포워딩.md",
+    "02_Network/06_NAT와_네트워크_경계/02_사설_IP와_공인_IP.md",
+    "02_Network/06_NAT와_네트워크_경계/01_NAT_개요.md",
+    "02_Network/05_네트워크_계층과_IP/05_DHCP.md",
+    "02_Network/05_네트워크_계층과_IP/04_ICMP.md",
+    "02_Network/05_네트워크_계층과_IP/03_라우팅_개요.md",
+    "02_Network/05_네트워크_계층과_IP/02_서브네팅.md",
+    "02_Network/05_네트워크_계층과_IP/01_IP_주소_체계.md",
+    "02_Network/04_HTTPS와_보안_통신/05_HTTPS_성능_이슈.md",
+    "02_Network/04_HTTPS와_보안_통신/04_인증서와_CA.md",
+    "02_Network/04_HTTPS와_보안_통신/03_TLS_Handshake.md",
+    "02_Network/04_HTTPS와_보안_통신/02_TLS_개요.md",
+    "02_Network/04_HTTPS와_보안_통신/01_HTTPS_개요.md",
+    "02_Network/03_애플리케이션_계층과_HTTP/04_HTTP_연결_관리.md",
+    "02_Network/03_애플리케이션_계층과_HTTP/03_HTTP_상태_코드.md",
+    "02_Network/02_전송_계층/무제",
+    "02_Network/09_실무_통신_사례",
+    "02_Network/08_라우팅_방식",
     "무제.base",
     "무제 1.canvas",
     "무제.canvas"
