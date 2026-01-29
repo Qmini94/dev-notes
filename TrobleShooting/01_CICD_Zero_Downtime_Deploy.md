@@ -3,7 +3,7 @@ date: 2026-01-27
 tags: [Troubleshooting, ProjectName, TechStack]
 status: Solved
 ---
-
+static파일 (public)공통 처리.
 # [주제: 예) CI/CD 무중단 배포 중 Nginx 스위칭 지연 문제]
 
 ## 1. 🚨 문제 상황 (Context & Problem)
