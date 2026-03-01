@@ -42,7 +42,7 @@ public interface NotificationStrategy {
 }
 
 // 2. 각 전략(구현체) 구현
-@Component
+@Component("EMAIL")
 public class EmailNotification implements NotificationStrategy {
     @Override
     public void send(String message) {
@@ -50,7 +50,7 @@ public class EmailNotification implements NotificationStrategy {
     }
 }
 
-@Component
+@Component("SMS")
 public class SmsNotification implements NotificationStrategy {
     @Override
     public void send(String message) {
@@ -58,7 +58,7 @@ public class SmsNotification implements NotificationStrategy {
     }
 }
 
-@Component
+@Component("PUSH")
 public class PushNotification implements NotificationStrategy {
     @Override
     public void send(String message) {
